@@ -1,6 +1,5 @@
 # 💫 About Me:
-I have been programming for 1 year, studying the Python language, and I want to delve deeper into machine learning and artificial intelligence.
-
+I’m a Python developer with 3 years of programming experience, currently expanding my knowledge in Machine Learning and Artificial Intelligence.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/albert-akimyan-743837227) 
