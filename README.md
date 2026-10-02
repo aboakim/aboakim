@@ -8,15 +8,15 @@ I’m a Python developer with 3 years of programming experience, currently expan
 
 **Machine learning**
 
-[![ML](https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn,opencv,matplotlib,plotly,pandas,numpy&perline=5&theme=dark)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,pandas,numpy,matplotlib,plotly,scipy&perline=5)](https://skillicons.dev)
 
 **Data and services**
 
-[![Data](https://skillicons.dev/icons?i=scipy,anaconda,fastapi,flask,postgres,mongodb,redis,nginx,selenium,postman&perline=5&theme=dark)](https://skillicons.dev)
+[![Data](https://skillicons.dev/icons?i=fastapi,flask,django,postgres,mongodb,redis,nginx,docker,kubernetes,selenium&perline=5)](https://skillicons.dev)
 
 **Engineering**
 
-[![Engineering](https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,linux,bash,vscode,pycharm,jira&perline=5&theme=dark)](https://skillicons.dev)
+[![Engineering](https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,vscode,pycharm,postman,jira,azure&perline=5)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aboakim&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aboakim&theme=dark&hide_border=false)<br/>
