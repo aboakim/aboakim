@@ -6,7 +6,17 @@ I’m a Python developer with 3 years of programming experience, currently expan
 
 ## 💻 Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn,pandas,numpy,matplotlib,plotly,scipy,opencv,anaconda,fastapi,flask,docker,kubernetes,git,github,githubactions,linux,bash,vscode,pycharm,postgres,mongodb,redis,nginx,selenium,jira,postman&perline=6)](https://skillicons.dev)
+**Machine learning**
+
+[![ML](https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn,opencv,matplotlib,plotly,pandas,numpy&perline=5&theme=dark)](https://skillicons.dev)
+
+**Data and services**
+
+[![Data](https://skillicons.dev/icons?i=scipy,anaconda,fastapi,flask,postgres,mongodb,redis,nginx,selenium,postman&perline=5&theme=dark)](https://skillicons.dev)
+
+**Engineering**
+
+[![Engineering](https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,linux,bash,vscode,pycharm,jira&perline=5&theme=dark)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aboakim&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aboakim&theme=dark&hide_border=false)<br/>
